@@ -1,3 +1,4 @@
+Sistema de Controle para Condicional de Roupas
 Objetivo:
 Criar um sistema simples que permita aos lojistas controlar peças de roupas que são levadas em condicional por clientes, com funções de cadastro, edição, consulta e exclusão.
 
@@ -17,4 +18,4 @@ Consulta e edição de dados
 
 Registrar condicional (itens levados pelo cliente)
 
-Baixa de peças vendidas ou devolvidas# projeto-condicional
+Baixa de peças vendidas ou devolvidas
