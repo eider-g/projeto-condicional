@@ -17,6 +17,4 @@ Cadastro de clientes
 
 Consulta e edição de dados
 
-Registrar condicional (itens levados pelo cliente)
-
-Baixa de peças vendidas ou devolvidas
+Baixa de peças vendidas (exclusão)
